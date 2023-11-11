@@ -658,6 +658,7 @@
   "INFO": "Info",
   "INFRACTIONS": "Infractions:",
   "INPUT_MSG": "Input Message",
+  "INPUT_RID": "Input RID",
   "INPUT_USERNAME": "Input Username",
   "INSTANT_BRAKE": "Instant Brake",
   "INSTANT_BRAKE_DESC": "Makes your vehicle stop instantly when you press the brake",
