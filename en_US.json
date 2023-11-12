@@ -1200,6 +1200,7 @@
   "SHOOTING_MODEL": "Shooting Model",
   "SHOW": "Show",
   "SHOW_ALL": "Show all",
+  "SHOW_IN_PLAYER_DB": "Show In Player Database",
   "SHOW_TRANSACTION_ERROR": "Show Transaction Error",
   "SHOW_TRANSACTION_ERROR_DESC": "Shows a transaction error to the player",
   "SKIP_CUTSCENE": "Skip Cutscene",
