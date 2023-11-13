@@ -1368,6 +1368,8 @@
   "UNLIMITED_OXYGEN": "Unlimited Oxygen",
   "UNLIMITED_OXYGEN_DESC": "Allows you to stay underwater without losing oxygen",
   "UNLOAD": "Unload",
+  "UNRESTRICT_CAM": "Unrestrict Camera",
+  "UNRESTRICT_CAM_DESC": "Allows your camera angle to have a 360 degree range of motion",
   "USERNAME": "Username",
   "USER_DESYNC_KICKED": "You have been desync kicked.",
   "VEHICLE": "Vehicle",
