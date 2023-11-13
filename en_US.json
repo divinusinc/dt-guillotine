@@ -837,6 +837,7 @@
   "OOM_KICK_CMD_DESC": "Causes the player to be kicked with an alert. This kick has a high chance of backfiring in its current state",
   "OPEN": "Open",
   "OPEN_ALL_DOORS": "Open All",
+  "OPEN_SC_PROFILE": "Open Profile",
   "ORBITAL_DRONE": "Toggle Orbital Drone",
   "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "Automatically lock onto player",
   "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER_TOOLTIP": "If enabled, changes the selected player to the one it detects upon locking on an entity\nAll explosions will be blamed on the selected player, defaulting to the local player",
