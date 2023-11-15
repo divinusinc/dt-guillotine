@@ -444,7 +444,7 @@
   "ERROR_FAILED_TO_TAKE_CONTROL": "Failed to take control of player vehicle.",
   "ERROR_PLAYER_IS_NOT_IN_VEHICLE": "Target player is not in a vehicle.",
   "ESP_BULLET": "[BULLET PROOF] ",
-  "ESP_EXPLOSION": "[EXPLOSION PROOF] ",
+  "ESP_EXPLOSION": "[EXPLOSION PROOF]",
   "ESP_GOD": "[GOD] ",
   "ESP_HOST": "[HOST] ",
   "ESP_INTERIOR": "[INTERIOR] ",
