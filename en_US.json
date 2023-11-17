@@ -1150,7 +1150,7 @@
   "SEND_FRIEND_REQUEST": "Send Friend Request",
   "SEND_MSG": "Send Message",
   "SEND_PM": "Send PM",
-  "SEND_PM_DESC": "Turns on private messaging between you and the player",
+  "SEND_PM_DESC": "Turns on/off private messaging between you and the player",
   "SEND_PM_OFF_DESC": "Private messaging for {} turned off.",
   "SEND_PM_ON_DESC": "Private messaging for {} turned on.",
   "SEND_SEXT": "Send Sext",
