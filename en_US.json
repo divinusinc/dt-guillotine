@@ -912,7 +912,7 @@
   "PLAYER_INFO_DEATHS": "Deaths By Players",
   "PLAYER_INFO_EXPLOSION": "Explosion, ",
   "PLAYER_INFO_GOD": "God",
-  "PLAYER_INFO_HOST_TOKEN": "Host Token: %d",
+  "PLAYER_INFO_HOST_TOKEN": "Host Token: %s",
   "PLAYER_INFO_ID": "Player ID: %d",
   "PLAYER_INFO_IP": "IP Address: %d.%d.%d.%d:%d",
   "PLAYER_INFO_ISP": "ISP: %s",
