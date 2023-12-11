@@ -1,4 +1,6 @@
 {
+  "ADAPTIVE_KICK": "Adaptive Kick",
+  "ADAPTIVE_KICK_DESC": "Attempts to kick the player by any means necessary",
   "ADD": "Add",
   "ADDRESSES": "Addresses",
   "ADMIN_CHECK": "Admin Check",
@@ -667,6 +669,7 @@
   "HORN_BOOST_DESC": "Boosts your vehicle forward when you sound the horn",
   "HOST_KICK": "Host Kick",
   "HOST_KICK_DESC": "Host kick that only works when host",
+  "HOST_KICK_FAILED": "Must be Host to use this",
   "HOT_PROPERTY": "Hot Property",
   "HOUR": "Hour",
   "HUD": "HUD",
