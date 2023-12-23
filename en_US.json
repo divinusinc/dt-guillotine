@@ -531,6 +531,8 @@
   "GIVE_ARMOR_DESC": "Gives the player some armor",
   "GIVE_HEALTH": "Give Health",
   "GIVE_HEALTH_DESC": "Gives the player some health",
+  "GIVE_NEARBY_PICKUPS": "Give Nearby Pickups",
+  "GIVE_NEARBY_PICKUPS_DESC": "Teleports all nearby pickups to the player's current position",
   "GIVE_WEAPONS": "Give Weapons",
   "GIVE_WEAPONS_ALL_DESC": "Gives all weapons to everyone. Don't spam this or you will crash",
   "GIVE_WEAPONS_DESC": "Gives all weapons to the player",
