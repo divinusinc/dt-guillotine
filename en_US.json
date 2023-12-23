@@ -1,4 +1,5 @@
 {
+  "ACTIVATE": "Activate",
   "ADAPTIVE_KICK": "Adaptive Kick",
   "ADAPTIVE_KICK_DESC": "Attempts to kick the player by any means necessary",
   "ADD": "Add",
