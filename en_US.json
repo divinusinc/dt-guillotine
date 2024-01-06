@@ -1179,6 +1179,7 @@
   "SELECT_FILE_FIRST": "Select a file first",
   "SELF": "Self",
   "SEMI_GODMODE": "Semi-Godmode",
+  "SEMI_GOD_DESC": "Turns semigod on/off for the player",
   "SEND": "Send",
   "SEND_MUGGER": "Send Mugger",
   "SEND_MUGGER_DESC": "Calls a mugger on the player",
