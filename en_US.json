@@ -923,7 +923,7 @@
   "PLATE_STYLE": "Plate Style",
   "PLAYER": "Player",
   "PLAYERS": "Players",
-  "PLAYER_CHANGED_NAME": "{} changed their SC name to {}",
+  "PLAYER_CHANGED_NAME": "\"{}\" changed their SC name to \"{}\"",
   "PLAYER_COUNT": "Player Count",
   "PLAYER_DETECTED_AS_ADMIN": "has been detected as admin",
   "PLAYER_INFO_ADD_TO_DB": "Add To Database",
