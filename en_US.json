@@ -1317,6 +1317,8 @@
   "SPOOF_KD": "Spoof K/D Ratio",
   "SPOOF_PLAYER_MODEL": "Spoof Player Model",
   "SPOOF_RANK": "Spoof Rank",
+  "SPOOF_TOTAL_CASH": "Spoof Total Cash",
+  "SPOOF_WALLET": "Spoof Wallet",
   "START_ACTIVITY": "Start Activity",
   "START_LS_CUSTOMS": "Start LS Customs",
   "STEAL_IDENTITY": "Steal Identity",
