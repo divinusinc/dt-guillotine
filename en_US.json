@@ -1031,6 +1031,7 @@
   "REACTION_CLEAR_WANTED_LEVEL_ANNOUNCE": "{} tried to clear my wanted level!",
   "REACTION_CRASH_NOTIFY": "Blocked Crash from {}",
   "REACTION_CRASH_ANNOUNCE": "{} tried to crash me!",
+  "REACTION_CRASH_PLAYER": "Crash Player",
   "REACTION_END_SESSION_KICK_NOTIFY": "Blocked End Session Kick from {}",
   "REACTION_GENERIC_KICK_ANNOUNCE": "{} tried to kick me out!",
   "REACTION_FAKE_DEPOSIT_NOTIFY": "Blocked Fake Deposit from {}",
