@@ -991,6 +991,8 @@
   "PREVIEW": "Preview",
   "PREVIEW_DESC": "Shows a render of what you have highlighted in front of you.",
   "PRIMARY": "Primary",
+  "PROFILE_FILE_NAME": "Profile File Name",
+  "PROFILE_FILE_NAME_EXAMPLE": "Ex. Space Purple",
   "PROOFS": "Proofs",
   "PROTECTIONS": "Protections",
   "PROXY_SETTINGS": "Proxy Settings",
