@@ -345,6 +345,8 @@
   "COPY": "Copy",
   "COPY_SESSION_INFO": "Copy Session Info",
   "CORE_GUI_COMPONENTS_DISABLED": "Disabled",
+  "CORRUPT_GAME": "Corrupt Game",
+  "CORRUPT_GAME_DESC": "Prevents the player from entering interiors and using the pause menu",
   "CREATOR_INFINITE_MEMORY": "Infinite Model Memory",
   "CREATOR_INFINITE_MEMORY_DESCRIPTION": "Infinite Model Memory is only useful if dev mode is not activated",
   "CREATOR_JOB_CREATE_FILE": "Create Job File",
