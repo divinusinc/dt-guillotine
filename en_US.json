@@ -1316,6 +1316,7 @@
   "SPEEDO_METER": "Speedometer",
   "SPEEDO_METER_DESC": "Enable/disable the speedo meter for vehicles.",
   "SPEED_UNIT": "Speed Unit",
+  "SPOOFING_ATTRIBUTE_HOST": "Host",
   "SPOOFING_ATTRIBUTE_LANGUAGE": "Language",
   "SPOOFING_ATTRIBUTE_PLAYER_COUNT": "Player Count",
   "SPOOFING_ATTRIBUTE_REGION": "Region",
