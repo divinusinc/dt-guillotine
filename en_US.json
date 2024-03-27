@@ -704,7 +704,7 @@
   "INFO": "Info",
   "INFRACTIONS": "Infractions:",
   "INNATE_DOMAIN": "Innate Domain",
-  "INNATE_DOMAIN_DESC": "Puts you in a tutorial session within your session\nno one can see you and vice versa",
+  "INNATE_DOMAIN_DESC": "Puts you in a tutorial session within your session,\nno one can see you and vice versa",
   "INPUT_MSG": "Input Message",
   "INPUT_RID": "Input RID",
   "INPUT_USERNAME": "Input Username",
