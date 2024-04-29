@@ -787,6 +787,7 @@
   "LOCAL_VISIBILITY_DESC": "Makes you visible to yourself, but other players would still not be able to see you",
   "LOG": "Log",
   "LOG_CHAT_MSG": "Log Chat Messages",
+  "LOG_CHAT_TO_CONSOLE": "Log Chat To Console",
   "LOG_TXT_MSG": "Log Text Messages",
   "LOW_GRIP_TIRES": "Low Grip Tires",
   "LSC_CHROME": "Chrome ",
