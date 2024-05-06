@@ -280,7 +280,7 @@
   "BLOCK_JOIN": "Block Join",
   "BLOCK_JOIN_ALERT": "Block Join Alert",
   "BLOCK_JOIN_INFO": "Blocked {} from joining",
-  "BLOCK_JOIN_PREVENT_PLAYER_JOIN": "Trying to prevent {} from joining...",
+  "BLOCK_JOIN_PREVENT_PLAYER_JOIN": "Trying to prevent {} from joining",
   "BLOCK_MUGGERS": "Block Muggers",
   "BLOCK_MUGGERS_DESC": "For the entire session",
   "BLOCK_RID_JOINING": "Block RID Joining",
