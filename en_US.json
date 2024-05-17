@@ -1381,6 +1381,7 @@
   "SUPER_JUMP_DESC": "Jump really high",
   "SUPER_RUN": "Super Run",
   "SUPER_RUN_DESC": "Makes you run much faster",
+  "TAG_AFK": "[AFK]",
   "TAG_CUTSCENE": "[CUTSCENE]",
   "TAG_GOD": "[GOD]",
   "TAG_HOST": "[HOST]",
