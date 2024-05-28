@@ -997,7 +997,7 @@
   "POLICE": "Police",
   "POOL_TYPE": "Pool Type",
   "POPULOUS_SESSION": "Populous Session",
-  "POPULOUS_SESSION_DESC": "Hosts more than one instance of the session to the game's matchmaking\ncausing more players to join more quickly. A higher value will populate the session faster.",
+  "POPULOUS_SESSION_DESC": "Hosts more than one instance of the session to the game's matchmaking causing\nmore players to join more quickly. A higher value will populate the session faster.",
   "POS_X_Y": "Position (X, Y)",
   "POTENTIAL_ADMIN_FOUND": "Potential Admin Found!",
   "PREVIEW": "Preview",
