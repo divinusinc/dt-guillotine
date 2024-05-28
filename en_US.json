@@ -702,6 +702,8 @@
   "HUNT_THE_BEAST": "Hunt The Beast",
   "IMPORT_FROM_CLIPBOARD": "Import From Clipboard",
   "INCLUDING_YOU": "Including you",
+  "INCREASE_PLAYER_LIMIT": "Increase Player Limit",
+  "INCREASE_PLAYER_LIMIT_DESC": "Increases the maximum player limit from 30 to 32",
   "INFINITE": "Infinite",
   "INFO": "Info",
   "INFRACTIONS": "Infractions:",
