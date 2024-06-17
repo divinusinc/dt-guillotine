@@ -1396,6 +1396,7 @@
   "TAG_ROCKSTAR_DEV": "[R* DEV]",
   "TAG_SCRIPT_HOST": "[SCRIPT HOST]",
   "TAG_VEH_GOD": "[VEHICLE GOD]",
+  "TASE_LOOP": "Tase Loop",
   "TELEPORT": "Teleport",
   "TELEPORT_DESC": "Teleports you to the player",
   "TELEPORT_FAILED_TO_TAKE_CONTROL": "Failed to take control of entity.",
