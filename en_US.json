@@ -445,6 +445,8 @@
   "DISABLE_PHONE_DESC": "Blocks phone and stops all phone calls",
   "DISABLE_TRAFFIC": "Disable Traffic",
   "DISABLED_LUA_SCRIPTS": "Disabled Lua Scripts:",
+  "DISCORD_RP": "Discord Rich Presence",
+  "DISCORD_RP_DESC": "Displays Deus as your current Discord Activity",
   "DONT_STOP": "Don't Stop",
   "DRIVER": "Driver",
   "DRIVE_ON_WATER": "Drive On Water",
