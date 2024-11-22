@@ -477,6 +477,7 @@
   "ESP_OTR": "[OTR] ",
   "ESP_SCRIPT_HOST": "[SCRIPT HOST] ",
   "ESP_VEH_GOD": "[VEHICLE GOD] ",
+  "EXCEPTION": "Exception",
   "EXCLUDE_DEUS_USERS": "Exclude Deus Users",
   "EXCLUDE_EXCEPTIONS": "Exclude Exceptions",
   "EXCLUDE_FRIENDS": "Exclude Friends",
