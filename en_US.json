@@ -491,6 +491,8 @@
   "EXPLOSION_LOOP": "Explosion Loop",
   "EXPORT_TO_CLIPBOARD": "Export To Clipboard",
   "EXTRAS": "Extras",
+  "EVENT_LAUNCHER_DEAD_DROP": "Dead Drop",
+  "EVENT_LAUNCHER_PASS_THE_PARCEL": "Pass The Parcel",
   "FADE": "Fade",
   "FAKE_BAN_MESSAGE": "Send Fake Ban Message",
   "FAKE_BAN_MESSAGE_DESC": "Sends a fake ban notification to the player",
