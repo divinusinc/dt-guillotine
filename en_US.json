@@ -1257,7 +1257,7 @@
   "SESSION_SWITCHER": "Session Switcher",
   "SET": "Set",
   "SETTINGS": "Settings",
-  "SETTINGS_CONTEXT_MENU": "Context Menu Enabled",
+  "SETTINGS_CONTEXT_MENU": "Context Menu",
   "SETTINGS_CONTEXT_MENU_DESC": "Enables the ability to display an overlay over entities you have your camera aimed at\nwhich in turn allows you to select different options for the entity",
   "SETTINGS_CONTEXT_MENU_BOUNDING_BOX": "Bounding Box Enabled",
   "SETTINGS_CONTEXT_MENU_BOUNDING_BOX_COLOR": "Bounding Box Color:",
