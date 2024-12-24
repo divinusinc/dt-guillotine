@@ -1176,7 +1176,7 @@
   "REMOVE_CUSTOM": "Remove Custom",
   "REMOVE_WEAPON_ATTEMPT": "{} tried to remove a weapon.",
   "RENDER_HD_ONLY": "HD Only",
-  "RENDER_HD_ONLY_DESC": "Only renders parts of the map that are considered \"HD\" by the game engine",
+  "RENDER_HD_ONLY_DESC": "Only renders the closest things currently in HD",
   "REPAIR": "Repair",
   "REPAIR_PV": "Repair Personal Vehicle",
   "REPAIR_PV_DESC": "Repairs your currently active personal vehicle",
