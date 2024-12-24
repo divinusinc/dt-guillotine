@@ -709,6 +709,8 @@
   "HIDE_CONSOLE": "Hide Console",
   "HIDE_FROM_PLAYER_LIST": "Hide From Player List",
   "HIDE_RADAR": "Hide Radar",
+  "HIDE_TYPING_INDICATOR": "Hide Typing Indicator",
+  "HIDE_TYPING_INDICATOR_DESC": "Prevents showing players (and modders) when you are typing",
   "HIJACK_TRAIN": "Hijack Train",
   "HIJACK_TRAIN_FOUND_TRAIN": "Found a train nearby",
   "HOLD_FOR_BOOST": "Hold for Boost",
