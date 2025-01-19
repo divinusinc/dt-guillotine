@@ -1223,6 +1223,8 @@
   "ROOT": "Root",
   "ROTATE_CAM": "Rotate Cam",
   "ROT_CAM_LOOP": "Rotate Cam Loop",
+  "RUSH_HOUR_CRASH": "Rush Hour Crash",
+  "RUSH_HOUR_CRASH_DESC": "Effective on players in vehicles",
   "SAVE": "Save",
   "SAVED_VEHICLES": "Saved Vehicles",
   "SAVE_VEHICLE": "Save Vehicle",
