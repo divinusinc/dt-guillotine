@@ -14,6 +14,8 @@
   "ANIMATION_PLAYER": "Animation Player",
   "APPLY": "Apply",
   "ASCENDING": "Ascending",
+  "AUTO_CANCEL_ANIMS": "Automatically Cancel",
+  "AUTO_CANCEL_ANIMS_DESC": "Moving will stop animations automatically",
   "AUTO_DRIVE": "Auto Drive",
   "AUTO_KICK_CHAT_SPAMMERS": "Auto-kick Chat Spammers",
   "BACK": "Back",
