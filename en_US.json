@@ -15,7 +15,7 @@
   "APPLY": "Apply",
   "ASCENDING": "Ascending",
   "AUTO_CANCEL_ANIMS": "Automatically Cancel",
-  "AUTO_CANCEL_ANIMS_DESC": "Moving will stop animations automatically\n(While Allow Movement is disabled)",
+  "AUTO_CANCEL_ANIMS_DESC": "Moving will stop animations that aren't allowed\nmovement automatically (or while Allow Movement is disabled)",
   "AUTO_DRIVE": "Auto Drive",
   "AUTO_KICK_CHAT_SPAMMERS": "Auto-kick Chat Spammers",
   "BACK": "Back",
