@@ -484,6 +484,7 @@
   "ESP_HOST": "[HOST] ",
   "ESP_INTERIOR": "[INTERIOR] ",
   "ESP_OTR": "[OTR] ",
+  "ESP_PAUSED": "[PAUSED] ",
   "ESP_SCRIPT_HOST": "[SCRIPT HOST] ",
   "ESP_VEH_GOD": "[VEHICLE GOD] ",
   "EXCEPTION": "Exception",
