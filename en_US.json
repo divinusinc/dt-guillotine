@@ -342,6 +342,8 @@
   "CLONE_PV_PLATE": "Clone Personal Vehicle Plate",
   "CLOSE": "Close",
   "CLOSE_ALL_DOORS": "Close All",
+  "CLUMSY": "Clumsy",
+  "CLUMSY_DESC": "Makes you prone to tripping over everything",
   "CMD_EXECUTOR": "Toggle Command Executor",
   "CMD_EXECUTOR_CMD_TEMPLATE": "{} - {} - {} | {} Args",
   "CMD_EXECUTOR_DESC": "Toggles the command executor window",
