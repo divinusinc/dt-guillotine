@@ -1316,7 +1316,7 @@
   "SETTINGS_ESP_PLAYER_VEH_GOD": "Show Vehicle Godmode Tag",
   "SETTINGS_ESP_PLAYER_OTR": "Show OTR Tag",
   "SETTINGS_ESP_PLAYER_INTERIOR": "Show Interior Tag",
-  "SETTINGS_ESP_PLAYER_PAUSED": "Show Paused Tag",
+  "SETTINGS_ESP_PAUSED": "Show Paused Tag",
   "SETTINGS_ESP_SCALE_ARMOR": "Should Armor bar Scale with Distance",
   "SETTINGS_ESP_SCALE_HEALTH": "Should Health bar Scale with Distance",
   "SETTINGS_ESP_SCRIPT_HOST_TAG": "Show Script Host Tag",
