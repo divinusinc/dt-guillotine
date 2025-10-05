@@ -748,7 +748,7 @@
   "INCREASE_PLAYER_LIMIT_DESC": "Increases the maximum player limit from 30 to 32",
   "INFINITE": "Infinite",
   "INFO": "Info",
-  "INFRACTIONS": "Infractions:",
+  "INFRACTIONS": "Detections:",
   "INNATE_DOMAIN": "Innate Domain",
   "INNATE_DOMAIN_DESC": "Puts you in a tutorial session within your session,\nno one can see you and vice versa",
   "INPUT_MSG": "Input Message",
