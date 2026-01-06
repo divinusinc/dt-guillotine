@@ -313,6 +313,8 @@
   "BULLET_IMPACT": "Bullet Impact",
   "BUSINESS_BATTLES": "Business Battles",
   "BUSINESS_BATTLES_2": "Business Battles 2",
+  "BYPASS_PROFANITY": "Bypass Profanity Filter",
+  "BYPASS_PROFANITY_DESC": "Messages you send with words that Rockstar considers\n\"profane\" will not appear censored for other players",
   "CANCEL": "Cancel",
   "CANCEL_ANIMS_DESC": "Will cancel any running Scenario or Animation",
   "CAPTURE": "Capture",
