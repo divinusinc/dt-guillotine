@@ -1083,6 +1083,7 @@
   "PROXY_SETTINGS_UPDATE_SUCCESS": "Successfully updated proxy settings.",
   "PTFX_CMD_DESC": "Shows particle FXs on your character and vehicle.",
   "PTFX_CMD": "Enable PTFX",
+  "PTFX_SPAM": "PTFX Spam",
   "QUB3D": "QUB3D",
   "RACE": "Race",
   "RAGDOLL_LOOP": "Ragdoll Loop",
