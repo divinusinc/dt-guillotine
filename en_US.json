@@ -1064,7 +1064,7 @@
   "POLICE": "Police",
   "POOL_TYPE": "Pool Type",
   "POPULOUS_SESSION": "Populous Session",
-  "POPULOUS_SESSION_DESC": "Players are more likely to join new public sessions you create",
+  "POPULOUS_SESSION_DESC": "Players are more likely to join new public sessions you create\n(Must enable BEFORE starting a new session)",
   "POS_X_Y": "Position (X, Y)",
   "POTENTIAL_ADMIN_FOUND": "Potential Admin Found!",
   "PREVIEW": "Preview",
