@@ -1559,7 +1559,7 @@
   "UNRESTRICT_CAM": "Unrestrict Camera",
   "UNRESTRICT_CAM_DESC": "Allows your camera angle to have a 360 degree range of motion",
   "USERNAME": "Username",
-  "USER_DESYNC_KICKED": "You have been desync kicked.",
+  "USER_DESYNC_KICKED": "You have been desync kicked by BattlEye. Try hosting your own session.",
   "VEHICLE": "Vehicle",
   "VEHICLES": "Vehicles",
   "VEHICLE_ALLOW_ALL_IN_HEISTS": "Allow All Vehicles",
