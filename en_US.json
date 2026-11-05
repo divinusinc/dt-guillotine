@@ -456,6 +456,7 @@
   "DESYNC_KICK": "Desync Kick",
   "DEUS_COMMAND_BOX_TITLE": "Deus Command Box",
   "DEUS_IDENTIFIER_DESC": "Allows other Deus Users to identify you as a Deus User\nand allows you to identify them as well",
+  "DEUS_CHANGELOG": "Changelog":
   "DEUS_TUTORIAL": "Deus Tutorial",
   "DEUS_TUTORIAL_CMD": "Deus Tutorial - Command Console",
   "DEUS_TUTORIAL_GUI": "Deus Tutorial - GUI",
@@ -1267,6 +1268,8 @@
   "ROOT": "Root",
   "ROTATE_CAM": "Rotate Cam",
   "ROT_CAM_LOOP": "Rotate Cam Loop",
+  "RUINER_MODE": "Ruiner Mode",
+  "RUINER_MODE_DESC": "Grants any vehicle you enter the abilities of a Ruiner 2000",
   "RUSH_HOUR_CRASH": "Rush Hour Crash",
   "RUSH_HOUR_CRASH_DESC": "Effective on players in vehicles",
   "SAVE": "Save",
